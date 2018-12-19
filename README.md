@@ -1,5 +1,4 @@
-# naohiro2g.github.io
+# https://www.google.co.jp/
 
-githubでウェブページが作れます。
-「クリエイティブにプログラミング！2016」で使っていました。
-https://naohiro2g.github.io/
+最高のサイト
+https://www.google.co.jp/
